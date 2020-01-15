@@ -1,0 +1,26 @@
+2020-01-15 16:07:49,141 INFO c.k.t.s.ShopifyOrdersTestsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-15 16:07:58,943 INFO c.k.t.s.ShopifyOrdersTestsApplication [restartedMain] Started ShopifyOrdersTestsApplication in 36.029 seconds (JVM running for 53.083)
+2020-01-15 16:07:59,412 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] org.apache.catalina.connector.RequestFacade@4070e67e
+2020-01-15 16:07:59,413 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] null
+2020-01-15 16:07:59,413 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] null
+2020-01-15 16:07:59,413 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] null
+2020-01-15 16:07:59,415 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] 1 Header 'content-type' = application/json
+2020-01-15 16:07:59,416 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] 1 Header 'user-agent' = PostmanRuntime/7.21.0
+2020-01-15 16:07:59,416 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] 1 Header 'accept' = */*
+2020-01-15 16:07:59,417 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] 1 Header 'cache-control' = no-cache
+2020-01-15 16:07:59,418 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] 1 Header 'postman-token' = 28738781-7f71-4965-bc6f-d9f41d9e5c88
+2020-01-15 16:07:59,418 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] 1 Header 'host' = localhost:8081
+2020-01-15 16:07:59,418 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] 1 Header 'accept-encoding' = gzip, deflate
+2020-01-15 16:07:59,419 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] 1 Header 'content-length' = 127
+2020-01-15 16:07:59,419 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] 1 Header 'connection' = keep-alive
+2020-01-15 16:18:03,369 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] org.apache.catalina.connector.RequestFacade@72f445cd
+2020-01-15 16:18:03,373 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] null
+2020-01-15 16:18:03,373 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] null
+2020-01-15 16:18:03,373 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] null
+2020-01-15 16:18:03,374 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] 1 Header 'host' = localhost:8081
+2020-01-15 16:18:03,374 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] 1 Header 'user-agent' = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0
+2020-01-15 16:18:03,375 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] 1 Header 'accept' = text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2020-01-15 16:18:03,375 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] 1 Header 'accept-language' = es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+2020-01-15 16:18:03,376 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] 1 Header 'accept-encoding' = gzip, deflate, br
+2020-01-15 16:18:03,376 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] 1 Header 'connection' = keep-alive
+2020-01-15 16:18:03,376 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-8] 1 Header 'upgrade-insecure-requests' = 1
