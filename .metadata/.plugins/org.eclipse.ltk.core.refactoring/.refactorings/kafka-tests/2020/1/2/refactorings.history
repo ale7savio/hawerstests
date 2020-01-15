@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.kafka.tests.helper&apos; to &apos;com.kafka.tests.helpers&apos;&#x0A;- Original project: &apos;kafka-tests&apos;&#x0A;- Original element: &apos;kafka-tests/src/main/java/com.kafka.tests.helper&apos;&#x0A;- Renamed element: &apos;kafka-tests/src/main/java/com.kafka.tests.helpers&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.kafka.tests.helper&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kafka.tests.helper" name="com.kafka.tests.helpers" qualified="false" references="true" stamp="1578641921097" textual="false" version="1.0"/>
+</session>

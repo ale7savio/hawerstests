@@ -1,0 +1,23 @@
+package com.shopify.pruebas.controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.shopify.pruebas.clients.ConnectShopifyFeignClient;
+
+@RestController
+public class ConnectShopifyController {
+	
+	@Autowired
+	private ConnectShopifyFeignClient client;
+	
+	@GetMapping("/get-shop")
+	public String getShop() {
+		return client.getShop();
+	}
+	
+	
+	
+	
+}

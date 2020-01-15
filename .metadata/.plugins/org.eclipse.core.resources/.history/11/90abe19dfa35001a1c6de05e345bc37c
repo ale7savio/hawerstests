@@ -1,0 +1,12 @@
+package com.kafka.tests.shopifyorderstests.daos;
+
+import java.util.Date;
+
+public class Order {
+	private Integer id;
+	private String email;
+	private Date created_at;
+	
+	
+	
+}

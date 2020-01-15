@@ -1,0 +1,11 @@
+package com.shopify.pruebas.services;
+
+public class ViewConnection implements IViewConnection{
+
+	@Override
+	public String isConnected() {
+		
+		return null;
+	}
+
+}

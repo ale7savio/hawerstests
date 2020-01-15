@@ -1,0 +1,6 @@
+spring.application.name=shopify-orders-tests
+server.port=80
+
+logging.file=E:/Apps_Tek/apps-webservices-log/apps-webservices.log
+logging.level.*=INFO
+logging.config=log4j.properties

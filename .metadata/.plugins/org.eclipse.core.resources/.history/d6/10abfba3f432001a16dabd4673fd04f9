@@ -1,0 +1,14 @@
+package com.shopify.pruebas.services;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class ViewConnection implements IViewConnection{
+
+	@Override
+	public String isConnected() {
+		
+		return null;
+	}
+
+}

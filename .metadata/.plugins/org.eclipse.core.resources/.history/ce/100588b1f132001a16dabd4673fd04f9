@@ -1,0 +1,11 @@
+package com.shopify.pruebas.clients;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@FeignClient(name="connect-shopify", url = "https://jsonplaceholder.typicode.com")
+public interface ConnectShopifyFeignClient {
+	
+	@GetMapping("/posts")
+	public String getOrders();
+}

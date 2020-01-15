@@ -1,0 +1,5 @@
+package com.shopify.pruebas.controllers;
+
+public class ConnectShopifyController {
+
+}

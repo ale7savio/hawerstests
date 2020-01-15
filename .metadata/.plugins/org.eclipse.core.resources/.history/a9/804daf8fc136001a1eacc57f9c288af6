@@ -1,0 +1,2 @@
+spring.application.name=consumer-kafka
+server.port=8585

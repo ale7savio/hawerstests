@@ -1,0 +1,2 @@
+spring.application.name=shopify-orders-tests
+server.port=8080

@@ -1,0 +1,12 @@
+package com.shopify.pruebas.dao;
+
+import org.springframework.data.rest.core.annotation.RepositoryRestResource;
+import org.springframework.data.rest.core.annotation.RestResource;
+
+@RepositoryRestResource(path = "connect-shopify")
+public interface ViewConnectionDao {
+	
+	@RestResource(path = "check-connection")
+	public String checkConnection();
+	
+}

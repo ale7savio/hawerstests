@@ -1,0 +1,5 @@
+package com.shopify.pruebas.dao;
+
+public interface ViewConnectionDao {
+
+}
