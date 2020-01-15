@@ -37,7 +37,6 @@ INDEX VERSION 1.131+/Users/alejandromunoz/Documents/Shopify/PruebasApi/workspace
 3406510906.index
 4283280406.index
 1473438919.index
-3086946529.index
 883672510.index
 4018462555.index
 2198159603.index

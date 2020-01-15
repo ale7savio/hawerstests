@@ -14,7 +14,7 @@ public class TestsOrdersShopifyController {
 
 		System.out.println("Pedido:");
 		// System.out.println(order);
-		return "prueba";
+		return order;
 	}
 
 }
