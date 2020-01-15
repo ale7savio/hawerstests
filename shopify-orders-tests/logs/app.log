@@ -1,0 +1,8 @@
+2020-01-15 12:58:42,949 INFO c.k.t.s.ShopifyOrdersTestsApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-15 12:58:50,129 INFO c.k.t.s.ShopifyOrdersTestsApplication [restartedMain] Started ShopifyOrdersTestsApplication in 33.512 seconds (JVM running for 50.566)
+2020-01-15 12:59:39,068 DEBUG c.k.t.s.c.TestsOrdersShopifyController [https-jsse-nio-8081-exec-5] "{
+	\"id\":820982911946154508,
+	\"email\":\"jon@doe.ca\",
+	\"closed_at\":null,
+	\"created_at\":\"2020-01-13T11:56:20+01:00\"
+}"

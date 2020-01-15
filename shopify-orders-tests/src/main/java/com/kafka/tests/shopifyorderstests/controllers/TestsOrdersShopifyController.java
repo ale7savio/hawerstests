@@ -18,7 +18,7 @@ public class TestsOrdersShopifyController {
 
 		System.out.println("Pedido:");
 		// System.out.println(order);
-		logger.error("{}", "safdsfdsd");
+		logger.debug(order);
 		return order;
 	}
 
