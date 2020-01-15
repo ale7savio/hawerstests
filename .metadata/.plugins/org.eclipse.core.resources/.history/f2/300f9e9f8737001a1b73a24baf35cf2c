@@ -64,6 +64,16 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
+	
+	<resources>
+    <resource>
+        <directory>src/main/resources</directory>
+        <includes>
+            <include>log4j.properties</include>
+        </includes>         
+        <filtering>true</filtering>
+    </resource>
+</resources>
 
 	<dependencyManagement>
 		<dependencies>
@@ -84,20 +94,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		
-		<resources>
-    		<resource>
-        		<directory>src/main/resources</directory>
-			        <includes>
-			            <include>log4j.properties</include>
-			        </includes>         
-        		<filtering>true</filtering>
-    		</resource>
-		</resources>
 	</build>
-	
-	
 
 </project>
-
-
