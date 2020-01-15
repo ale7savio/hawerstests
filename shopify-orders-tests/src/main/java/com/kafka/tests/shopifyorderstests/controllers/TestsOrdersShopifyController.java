@@ -16,7 +16,7 @@ public class TestsOrdersShopifyController {
 	
 	private static final Logger logger = LogManager.getLogger(TestsOrdersShopifyController.class);
 
-	@GetMapping("/send-order")
+	@RequestMapping("/send-order")
 	public String sendOrder(@RequestHeader Map<String, String> headers) {
 		
 	    headers.forEach((key, value) -> {
