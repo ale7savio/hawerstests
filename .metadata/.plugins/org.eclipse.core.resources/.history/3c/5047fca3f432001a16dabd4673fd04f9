@@ -1,5 +1,0 @@
-package com.shopify.pruebas.services;
-
-public interface IViewConnection {
-	public String isConnected();
-}

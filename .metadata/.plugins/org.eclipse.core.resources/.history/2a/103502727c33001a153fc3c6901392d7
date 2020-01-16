@@ -1,5 +1,0 @@
-package com.kafka.tests.helpers;
-
-public class ProductorKafka {
-
-}

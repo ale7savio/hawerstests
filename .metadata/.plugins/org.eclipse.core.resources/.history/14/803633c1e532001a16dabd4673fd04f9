@@ -1,6 +1,0 @@
-package com.shopify.pruebas.dao;
-
-@RepositoryRestResoure
-public interface ViewConnectionDao {
-
-}

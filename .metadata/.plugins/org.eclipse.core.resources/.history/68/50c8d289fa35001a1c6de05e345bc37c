@@ -1,5 +1,0 @@
-package com.kafka.tests.shopifyorderstests.daos;
-
-public class Order {
-
-}

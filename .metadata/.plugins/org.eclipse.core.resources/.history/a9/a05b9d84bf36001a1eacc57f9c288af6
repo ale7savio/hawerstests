@@ -1,9 +1,0 @@
-package com.kafka.producerkafkaexample;
-
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-@RequestMapping(value = "/producer")
-public class ProducerController {
-	
-}

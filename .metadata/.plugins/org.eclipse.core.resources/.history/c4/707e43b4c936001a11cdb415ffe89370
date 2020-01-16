@@ -1,5 +1,0 @@
-package com.kafka.consumerkafkaexample;
-
-public class KafkaConfig {
-
-}

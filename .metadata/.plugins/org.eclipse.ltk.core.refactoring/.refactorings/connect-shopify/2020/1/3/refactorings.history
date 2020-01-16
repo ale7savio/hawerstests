@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;FeignClientConfiguration.java&apos; to &apos;shopify-orders-tests/src/main/java/com.kafka.tests.shopifyorderstests&apos;&#x0A;- Original project: &apos;connect-shopify&apos;&#x0A;- Destination element: &apos;shopify-orders-tests/src/main/java/com.kafka.tests.shopifyorderstests&apos;&#x0A;- Original element: &apos;com.shopify.pruebas.FeignClientConfiguration.java&apos;" description="Copy compilation unit" destination="=shopify-orders-tests/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kafka.tests.shopifyorderstests" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.shopify.pruebas{FeignClientConfiguration.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1578905318389" units="1" version="1.0"/>
-</session>
