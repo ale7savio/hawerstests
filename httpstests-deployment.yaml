@@ -8,12 +8,12 @@ spec:
   selector:
     matchLabels:
       app: httpstests
-      tier: backend
+      tier: web
   template:
     metadata:
       labels:
         app: httpstests
-        tier: backend
+        tier: web
     spec:
       containers:
       - name: https-tests

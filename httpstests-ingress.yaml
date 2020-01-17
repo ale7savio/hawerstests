@@ -21,7 +21,7 @@ spec:
   type: NodePort
   selector:
     app: httpstests
-    tier: backend
+    tier: web
   ports:
   - port: 8081
     targetPort: 8081
